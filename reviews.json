@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Thompson",
+        "subject": "Introduction to Psychology",
+        "stars": 4,
+        "review": "Dr. Thompson is very knowledgeable and explains concepts clearly. The lectures are engaging, but the exams are a bit tough."
+      },
+      {
+        "professor": "Professor John Miller",
+        "subject": "Calculus I",
+        "stars": 3,
+        "review": "Professor Miller knows his stuff, but his lectures can be dry. You’ll need to do a lot of self-study."
+      },
+      {
+        "professor": "Dr. Sarah Wilson",
+        "subject": "Organic Chemistry",
+        "stars": 5,
+        "review": "Amazing professor! Her passion for chemistry is contagious, and she really cares about her students."
+      },
+      {
+        "professor": "Dr. Robert Johnson",
+        "subject": "World History",
+        "stars": 2,
+        "review": "Dr. Johnson's lectures are long and tedious. He is knowledgeable but lacks the ability to engage the class."
+      },
+      {
+        "professor": "Professor Lisa Davis",
+        "subject": "Introduction to Literature",
+        "stars": 4,
+        "review": "Professor Davis is very approachable and encourages class discussions. The readings are heavy, but she makes them interesting."
+      },
+      {
+        "professor": "Dr. Michael Brown",
+        "subject": "Physics I",
+        "stars": 3,
+        "review": "Dr. Brown explains concepts well, but his grading is harsh. Make sure to attend the recitations."
+      },
+      {
+        "professor": "Professor Jennifer Lee",
+        "subject": "Sociology 101",
+        "stars": 5,
+        "review": "Professor Lee is fantastic! Her classes are interactive and she relates the material to real-world issues."
+      },
+      {
+        "professor": "Dr. William Clark",
+        "subject": "Microeconomics",
+        "stars": 4,
+        "review": "Dr. Clark is a great lecturer with real-world experience. The course is challenging but rewarding."
+      },
+      {
+        "professor": "Professor Karen Taylor",
+        "subject": "English Composition",
+        "stars": 3,
+        "review": "Professor Taylor is okay. She is a tough grader, but she gives good feedback on essays."
+      },
+      {
+        "professor": "Dr. David White",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Dr. White is very knowledgeable and provides interesting perspectives. The class is reading-intensive."
+      },
+      {
+        "professor": "Professor Linda Harris",
+        "subject": "Statistics 101",
+        "stars": 2,
+        "review": "Professor Harris struggles to explain the material clearly. The class is difficult if you’re not already good at math."
+      },
+      {
+        "professor": "Dr. Andrew Walker",
+        "subject": "Biology II",
+        "stars": 5,
+        "review": "Dr. Walker makes biology fascinating! His lectures are engaging, and he is always willing to help."
+      },
+      {
+        "professor": "Professor Nancy Martin",
+        "subject": "Philosophy 101",
+        "stars": 3,
+        "review": "Professor Martin is thought-provoking but can be hard to follow at times. Be prepared for deep discussions."
+      },
+      {
+        "professor": "Dr. Richard King",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. King is passionate about the environment and inspires his students. The coursework is manageable."
+      },
+      {
+        "professor": "Professor Susan Hall",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Professor Hall is knowledgeable and her lectures are visually stimulating. Be prepared for a lot of memorization."
+      },
+      {
+        "professor": "Dr. Mark Allen",
+        "subject": "Computer Science I",
+        "stars": 5,
+        "review": "Dr. Allen is excellent! He makes complex topics understandable and is always available for extra help."
+      },
+      {
+        "professor": "Professor Barbara Young",
+        "subject": "Creative Writing",
+        "stars": 3,
+        "review": "Professor Young encourages creativity but is a tough critic. Be ready for constructive criticism."
+      },
+      {
+        "professor": "Dr. James Scott",
+        "subject": "International Relations",
+        "stars": 4,
+        "review": "Dr. Scott has a deep understanding of global issues. His class is challenging but very informative."
+      },
+      {
+        "professor": "Professor Patricia Adams",
+        "subject": "Marketing 101",
+        "stars": 2,
+        "review": "Professor Adams has a lot of industry experience, but her lectures are disorganized. The course content is interesting, though."
+      },
+      {
+        "professor": "Dr. Steven Green",
+        "subject": "Advanced Mathematics",
+        "stars": 5,
+        "review": "Dr. Green is a genius! His passion for math is evident, and he explains difficult concepts with ease."
+      }
+    ]
+  }
